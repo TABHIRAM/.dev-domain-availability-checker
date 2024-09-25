@@ -5,7 +5,7 @@ A simple Python script to check the availability of `.dev` domains using an API.
 ## Features
 
 - Checks domain availability for `.dev` domains.
-- Generates domain names of lengths 1 to 5 using letters and digits. (You can change as per your requirement) 
+- Generates available domain names of lengths 1 to 5 using letters and digits. (You can change as per your requirement) 
 - Avoids hitting rate limits with a delay between requests.
 
 ## Requirements
@@ -17,7 +17,7 @@ A simple Python script to check the availability of `.dev` domains using an API.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/domain-availability-checker.git](https://github.com/TABHIRAM/.dev-domain-availability-checker.git)
+   git clone (https://github.com/TABHIRAM/.dev-domain-availability-checker.git)
    cd domain-availability-checker
 
 ## API Source
