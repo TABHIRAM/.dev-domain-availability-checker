@@ -1,3 +1,9 @@
+# check_dev_domains.py
+# 
+# Disclaimer:
+# This script is intended for educational purposes only. It is not intended to harm or interfere with Google or any other entity.
+# Please use responsibly and in compliance with all applicable laws and guidelines.
+
 import requests
 import itertools
 import string
