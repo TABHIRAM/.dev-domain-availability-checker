@@ -18,7 +18,7 @@ A simple Python script to check the availability of `.dev` domains using an API.
 1. Clone the repository:
    ```bash
    git clone (https://github.com/TABHIRAM/.dev-domain-availability-checker.git)
-   cd domain-availability-checker
+   cd .dev-domain-availability-checker
 
 ## API Source
 
